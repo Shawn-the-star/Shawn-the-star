@@ -1,7 +1,7 @@
 ### Hi there 👋
 --- 
 ### 📕 About me 
-I am a teen coder (self-taught for the most part) who loves to solve problems and play games
+I am a teen coder (self-taught) who loves to solve problems and play games
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on games and websites
