@@ -9,8 +9,6 @@ I am a teen coder (self-taught for the most part) who loves to solve problems an
 - 😄 Pronouns: he/him
 
 ## ⚒ Tools and Languages
-
-<p align="center">
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -23,12 +21,8 @@ I am a teen coder (self-taught for the most part) who loves to solve problems an
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 
-</p>
-
----
-
 ## 📊 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shawn-the-star)](https://git.io/streak-stats)
 
-[![DaKing01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-the-star)](https://git.io/streak-stats)
+[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-the-star)](https://git.io/streak-stats)
