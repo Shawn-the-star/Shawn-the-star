@@ -25,6 +25,8 @@ I am a teen coder (self-taught for the most part) who loves to solve problems an
 
 </p>
 
+---
+
 ## 📊 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shawn-the-star)](https://git.io/streak-stats)
