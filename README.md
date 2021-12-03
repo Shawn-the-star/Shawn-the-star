@@ -8,6 +8,12 @@ I am a teen coder (self-taught for the most part) who loves to solve problems an
 - 🤔 I’m looking for help with algorithms
 - 😄 Pronouns: he/him
 
+## 📊 Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shawn-the-star)](https://git.io/streak-stats)
+
+[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-the-star)](https://git.io/streak-stats)
+
 ## ⚒ Tools and Languages
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -20,9 +26,3 @@ I am a teen coder (self-taught for the most part) who loves to solve problems an
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-
-## 📊 Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shawn-the-star)](https://git.io/streak-stats)
-
-[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-the-star)](https://git.io/streak-stats)
