@@ -14,7 +14,9 @@ I am a teen coder (mostly self-taught) who loves to solve problems and play game
 
 [![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-the-star&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-the-star&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-the-star&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Shawn-the-star&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚒ Tools and Languages
   
