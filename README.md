@@ -1,8 +1,6 @@
 ### Hi there 👋
 --- 
 ### 📕 About me 
-I am a teen coder (mostly self-taught) who loves to solve problems and play games
-
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on games and websites
 - 🤔 I’m looking for help with algorithms
